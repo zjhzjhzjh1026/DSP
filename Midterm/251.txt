@@ -1,0 +1,9 @@
+1：For the plots of |FFT| (dB) of x(n) and Q[x(n)], proper normalization of the spectra is not required.
+
+2:N=256， plot 连续？离散？
+
+3:power spectrum 最开始没有下降？
+
+4:biased?
+
+5.window？
